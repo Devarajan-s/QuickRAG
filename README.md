@@ -1,8 +1,5 @@
 # Vibe Matcher - Fashion Recommendation System
 
-**Submission for Nexora AI Assignment**  
-**Date:** November 10, 2025
-
 ## Project Overview
 A semantic search system that matches fashion products to vibe queries using embeddings and cosine similarity.
 
